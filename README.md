@@ -1,7 +1,6 @@
 # Streamlit Data Analytics App
 
-<img width="580" height=470" alt="project6" src="https://github.com/user-attachments/assets/b91b9759-6cc6-45df-8655-84535ab60b81" />
-
+<img width="880" height="570" alt="project6" src="https://github.com/user-attachments/assets/3209cb82-d374-48f4-bf0f-5e95b39f245c" />
 
 ## Project Overview
 
