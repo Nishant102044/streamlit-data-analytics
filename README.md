@@ -1,5 +1,8 @@
 # Streamlit Data Analytics App
 
+<img width="480" height="270" alt="project6" src="https://github.com/user-attachments/assets/b91b9759-6cc6-45df-8655-84535ab60b81" />
+
+
 ## Project Overview
 
 The Streamlit Data Analytics App is an interactive web application designed to simplify data analysis and visualization. Users can upload CSV files, explore datasets, apply filters, and generate insightful charts through a user-friendly dashboard. The application helps analysts and businesses make data-driven decisions quickly and efficiently.
